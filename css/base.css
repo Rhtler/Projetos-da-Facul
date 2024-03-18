@@ -1,0 +1,27 @@
+/*
+    CSS Base que Será usado em todas paginas Web
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+:root {
+    --cor-primaria: #05C962;
+    --cor-secundaria: #079E48;
+}
+
+/* CSS RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: "Quicksand", sans-serif;
+}
+
+
+/* Override */
+
+/* .btn.btn-primary {
+    background-color: var(--cor-primaria);
+} */

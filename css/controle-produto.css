@@ -1,0 +1,5 @@
+/* Aqui estou fazendo um override ou uma sobrescrita de código no css do bootstrap */
+.modal-dialog {
+    max-width: 780px;
+}
+
